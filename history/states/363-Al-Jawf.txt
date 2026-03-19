@@ -1,0 +1,13 @@
+state={
+	id=363
+	name="STATE_363"
+	provinces={
+		4974 8101 10815 10901 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = SAU
+	}
+}

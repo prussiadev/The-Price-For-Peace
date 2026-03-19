@@ -8,7 +8,7 @@ state={
 	buildings_max_level_factor=1
 	local_supplies=0
 	history = {
-		owner = LIB
+		owner = LBA
 	}
 	impassable = yes
 }

@@ -1,0 +1,13 @@
+state={
+	id=361
+	name="STATE_361"
+	provinces={
+		1955 4932 5024 7995 10791 10850 12702 13411 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = SAU
+	}
+}
