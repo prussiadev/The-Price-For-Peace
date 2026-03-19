@@ -1,0 +1,13 @@
+state={
+	id=218
+	name="STATE_218"
+	provinces={
+		35 161 3182 6050 6127 6209 9109 9149 9185 11082 11163 11188 11278 13097 13098 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = SWE
+	}
+}

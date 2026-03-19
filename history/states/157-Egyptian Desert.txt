@@ -10,4 +10,5 @@ state={
 	history = {
 		owner = EGY
 	}
+	force_link_ownership_to = 182
 }

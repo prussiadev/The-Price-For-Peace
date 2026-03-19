@@ -1,0 +1,13 @@
+state={
+	id=223
+	name="STATE_223"
+	provinces={
+		21 107 115 3018 3022 3096 3098 3183 6038 6041 6116 6118 6173 9069 9132 9139 11118 11173 11206 
+	}
+	manpower=0
+	buildings_max_level_factor=1
+	local_supplies=0
+	history = {
+		owner = NOR
+	}
+}
