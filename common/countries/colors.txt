@@ -632,10 +632,6 @@ CBV = {
 	color = rgb { 0 102 204 }
 	color_ui = rgb { 00 51 102 }
 }
-PSH = {
-	color = rgb { 31 138 31 }
-	color_ui = rgb { 31 138 31 }
-}
 BHR = {
 	color = rgb { 230 0 0 }
 	color_ui = rgb { 128 0 0 }	
