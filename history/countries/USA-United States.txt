@@ -18,3 +18,5 @@ set_popularities = {
 	communism = 3
 	fascism = 2
 }
+
+add_nuclear_bombs = 299

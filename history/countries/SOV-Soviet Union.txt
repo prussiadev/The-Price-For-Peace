@@ -17,3 +17,5 @@ set_popularities = {
 	fascism = 3
 	democratic = 2
 }
+
+add_nuclear_bombs = 5
